@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "coc-diagnostic": ">=0.24.1"
+  }
+}
